@@ -53,7 +53,7 @@ Note: *If the env file does not contain a Language API Key or Endpoint, the anal
 
 5. ***What other information can you share about Copilot's ability to save you time coding?*** 
 
- - [ replace this line with your answer. ]
+ - (Please tell us in a comment)
 
 ### Where does the app store surveys?
 
